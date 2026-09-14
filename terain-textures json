@@ -1,0 +1,167 @@
+{
+  "num_mip_levels": 4,
+  "padding": 8,
+  "resource_pack_name": "GEORGECRAFT",
+  "texture_definitions": {
+    "white_glazed_terracotta": {
+      "textures": {
+        "up": "textures/blocks/tvgrey",
+        "down": "textures/blocks/tvgrey",
+        "north": "textures/blocks/tvnorth",
+        "south": "textures/blocks/tvsouth",
+        "east": "textures/blocks/tvgrey",
+        "west": "textures/blocks/tvgrey"
+      }
+    },
+    "glazedTerracotta.orange": {
+      "textures": {
+        "up": "textures/blocks/orange_gt_top",
+        "down": "textures/blocks/orange_gt_bottom",
+        "north": "textures/blocks/orange_gt_side_1",
+        "south": "textures/blocks/orange_gt_side_2",
+        "east": "textures/blocks/orange_gt_side_3",
+        "west": "textures/blocks/orange_gt_side_4"
+      }
+    },
+    "glazedTerracotta.magenta": {
+      "textures": {
+        "up": "textures/blocks/magenta_gt_top",
+        "down": "textures/blocks/magenta_gt_bottom",
+        "north": "textures/blocks/magenta_gt_side_1",
+        "south": "textures/blocks/magenta_gt_side_2",
+        "east": "textures/blocks/magenta_gt_side_3",
+        "west": "textures/blocks/magenta_gt_side_4"
+      }
+    },
+    "glazedTerracotta.light_blue": {
+      "textures": {
+        "up": "textures/blocks/light_blue_gt_top",
+        "down": "textures/blocks/light_blue_gt_bottom",
+        "north": "textures/blocks/light_blue_gt_side_1",
+        "south": "textures/blocks/light_blue_gt_side_2",
+        "east": "textures/blocks/light_blue_gt_side_3",
+        "west": "textures/blocks/light_blue_gt_side_4"
+      }
+    },
+    "glazedTerracotta.yellow": {
+      "textures": {
+        "up": "textures/blocks/yellow_gt_top",
+        "down": "textures/blocks/yellow_gt_bottom",
+        "north": "textures/blocks/yellow_gt_side_1",
+        "south": "textures/blocks/yellow_gt_side_2",
+        "east": "textures/blocks/yellow_gt_side_3",
+        "west": "textures/blocks/yellow_gt_side_4"
+      }
+    },
+    "glazedTerracotta.lime": {
+      "textures": {
+        "up": "textures/blocks/lime_gt_top",
+        "down": "textures/blocks/lime_gt_bottom",
+        "north": "textures/blocks/lime_gt_side_1",
+        "south": "textures/blocks/lime_gt_side_2",
+        "east": "textures/blocks/lime_gt_side_3",
+        "west": "textures/blocks/lime_gt_side_4"
+      }
+    },
+    "glazedTerracotta.pink": {
+      "textures": {
+        "up": "textures/blocks/pink_gt_top",
+        "down": "textures/blocks/pink_gt_bottom",
+        "north": "textures/blocks/pink_gt_side_1",
+        "south": "textures/blocks/pink_gt_side_2",
+        "east": "textures/blocks/pink_gt_side_3",
+        "west": "textures/blocks/pink_gt_side_4"
+      }
+    },
+    "glazedTerracotta.gray": {
+      "textures": {
+        "up": "textures/blocks/gray_gt_top",
+        "down": "textures/blocks/gray_gt_bottom",
+        "north": "textures/blocks/gray_gt_side_1",
+        "south": "textures/blocks/gray_gt_side_2",
+        "east": "textures/blocks/gray_gt_side_3",
+        "west": "textures/blocks/gray_gt_side_4"
+      }
+    },
+    "glazedTerracotta.light_gray": {
+      "textures": {
+        "up": "textures/blocks/light_gray_gt_top",
+        "down": "textures/blocks/light_gray_gt_bottom",
+        "north": "textures/blocks/light_gray_gt_side_1",
+        "south": "textures/blocks/light_gray_gt_side_2",
+        "east": "textures/blocks/light_gray_gt_side_3",
+        "west": "textures/blocks/light_gray_gt_side_4"
+      }
+    },
+    "glazedTerracotta.cyan": {
+      "textures": {
+        "up": "textures/blocks/cyan_gt_top",
+        "down": "textures/blocks/cyan_gt_bottom",
+        "north": "textures/blocks/cyan_gt_side_1",
+        "south": "textures/blocks/cyan_gt_side_2",
+        "east": "textures/blocks/cyan_gt_side_3",
+        "west": "textures/blocks/cyan_gt_side_4"
+      }
+    },
+    "glazedTerracotta.purple": {
+      "textures": {
+        "up": "textures/blocks/purple_gt_top",
+        "down": "textures/blocks/purple_gt_bottom",
+        "north": "textures/blocks/purple_gt_side_1",
+        "south": "textures/blocks/purple_gt_side_2",
+        "east": "textures/blocks/purple_gt_side_3",
+        "west": "textures/blocks/purple_gt_side_4"
+      }
+    },
+    "glazedTerracotta.blue": {
+      "textures": {
+        "up": "textures/blocks/blue_gt_top",
+        "down": "textures/blocks/blue_gt_bottom",
+        "north": "textures/blocks/blue_gt_side_1",
+        "south": "textures/blocks/blue_gt_side_2",
+        "east": "textures/blocks/blue_gt_side_3",
+        "west": "textures/blocks/blue_gt_side_4"
+      }
+    },
+    "glazedTerracotta.brown": {
+      "textures": {
+        "up": "textures/blocks/brown_gt_top",
+        "down": "textures/blocks/brown_gt_bottom",
+        "north": "textures/blocks/brown_gt_side_1",
+        "south": "textures/blocks/brown_gt_side_2",
+        "east": "textures/blocks/brown_gt_side_3",
+        "west": "textures/blocks/brown_gt_side_4"
+      }
+    },
+    "glazedTerracotta.green": {
+      "textures": {
+        "up": "textures/blocks/green_gt_top",
+        "down": "textures/blocks/green_gt_bottom",
+        "north": "textures/blocks/green_gt_side_1",
+        "south": "textures/blocks/green_gt_side_2",
+        "east": "textures/blocks/green_gt_side_3",
+        "west": "textures/blocks/green_gt_side_4"
+      }
+    },
+    "glazedTerracotta.red": {
+      "textures": {
+        "up": "textures/blocks/red_gt_top",
+        "down": "textures/blocks/red_gt_bottom",
+        "north": "textures/blocks/red_gt_side_1",
+        "south": "textures/blocks/red_gt_side_2",
+        "east": "textures/blocks/red_gt_side_3",
+        "west": "textures/blocks/red_gt_side_4"
+      }
+    },
+    "glazedTerracotta.black": {
+      "textures": {
+        "up": "textures/blocks/black_gt_top",
+        "down": "textures/blocks/black_gt_bottom",
+        "north": "textures/blocks/black_gt_side_1",
+        "south": "textures/blocks/black_gt_side_2",
+        "east": "textures/blocks/black_gt_side_3",
+        "west": "textures/blocks/black_gt_side_4"
+      }
+    }
+  }
+}
