@@ -8,4 +8,4 @@ FEATURES...
 2. replaces paintings
 
 
-DOES NOT CONTAIN TEXTURES OR AUDIO!!!
+DOES NOT CONTAIN TEXTURES OR AUDIO!!! (due to legal reasons oviously...)
