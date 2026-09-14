@@ -1,5 +1,26 @@
 ## Comments can be added anywhere on a valid line by starting with '##'
-##
+## item.record_11.desc=Original Broadway Cast of Hamilton – A Winter's Ball
+## item.record_13.desc=Original Broadway Cast of Hamilton – Guns and Ships
+## item.record_blocks.desc=Original Broadway Cast of Hamilton – My Shot
+## item.record_bounce.desc=Original Broadway Cast of Hamilton – Washington on Your Side
+item.record_cat.desc=Original Broadway Cast of Hamilton – Dear Theodosia
+item.record_chirp.desc=Original Broadway Cast of Hamilton – Right Hand Man
+item.record_far.desc=Original Broadway Cast of Hamilton – Blow Us All Away
+item.record_mall.desc=Original Broadway Cast of Hamilton – Helpless
+item.record_mellohi.desc=Original Broadway Cast of Hamilton – The Story of Tonight
+item.record.name=Hamilton CD Single
+item.record_stal.desc=Original Broadway Cast of Hamilton – Your Obedient Servant
+item.record_strad.desc=Original Broadway Cast of Hamilton – The Schuyler Sisters
+item.record_wait.desc=Original Broadway Cast of Hamilton – Satisfied
+item.record_ward.desc=Original Broadway Cast of Hamilton – Say No to This
+item.record_pigstep.desc=Original Broadway Cast of Hamilton – We Know
+item.record_otherside.desc=Original Broadway Cast of Hamilton – Wait for It
+item.record_relic.desc=Original Broadway Cast of Hamilton – You'll Be Back
+item.record_creator.desc=Original Broadway Cast of Hamilton – Meet Me Inside
+item.record_creator_music_box.desc=Original Broadway Cast of Hamilton – Dear Theodosia (Reprise)
+## item.record_precipice.desc=Original Broadway Cast of Hamilton – One Last Time
+## item.record_tears.desc=Original Broadway Cast of Hamilton – Aaron Burr, Sir
+## item.record_lava_chicken.desc=Original Broadway Cast of Hamilton – Stay Alive (Reprise)
 ## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
 ## comment on the same line, use TABs.
 accessibility.disableTTS=Text to Speech disabled	#
